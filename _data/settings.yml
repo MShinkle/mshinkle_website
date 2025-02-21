@@ -19,11 +19,11 @@ social:
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:matthewshinkle@gmail.com'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/matthewshinkle/'}
-- {icon: 'github', link: 'https://github.com/MShinkle'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=bIcgPiwAAAAJ'}
-- {icon: 'file-text', link: '/assets/Matthew_Shinkle_CV.pdf'}
+- {icon: 'linkedin', name: 'LinkedIn', link: 'https://www.linkedin.com/in/matthewshinkle/'}
+- {icon: 'graduation-cap', name: 'Google Scholar', link: 'https://scholar.google.com/citations?user=bIcgPiwAAAAJ'}
+- {icon: 'github', name: 'GitHub', link: 'https://github.com/MShinkle'}
+- {icon: 'file-text', name: 'CV', link: '/assets/Matthew_Shinkle_CV.pdf'}
+- {icon: 'envelope', name: 'Email', link: 'mailto:matthewshinkle@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
