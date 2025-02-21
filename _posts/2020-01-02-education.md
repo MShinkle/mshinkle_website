@@ -4,6 +4,6 @@ title: "Education"
 image: unr_campus.jpg
 ---
 
-For my undergrad I attended Cedarville University, studying Psychology with dual emphases on Cognitive Neuroscience and Research and with minors in Philosophy and Theology.
+In undergrad, I studied psychology, neuroscience, and philosophy. I am now finishing up my PhD in [Cognitive and Brain Sciences](http://groups.unr.edu/unr_psych_cbs/CBS_grad_program/) at the University of Nevada, Reno.
 
-I'm currently a fourth-year PhD student in the University of Nevada, Reno's [Cognitive and Brain Sciences program](http://groups.unr.edu/unr_psych_cbs/CBS_grad_program/).
+Outside of these degrees, I’ve taken extensive coursework on topics ranging from deep learning, data science, and statistics to mechanistic interpretability and philosophy.
